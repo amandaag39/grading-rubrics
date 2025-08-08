@@ -44,6 +44,7 @@
 | **Tasks table** includes all 6 required columns | ✔️ | Field names can vary slightly if intent is clear |
 | **Users table** includes all 3 required columns | ✔️ | Additional fields (e.g. timestamps) are acceptable |
 | Schema reflects **relational structure** (`user_id` as FK in `tasks`) | ✔️ | Omission of this is a major error |
+| Tables are separated on separate sheets/tabs  | ✔️ | Omission of this is a minor error |
 
 ---
 
